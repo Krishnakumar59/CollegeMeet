@@ -1,4 +1,4 @@
-/**
+/**function
  * AgoraWebSDK_N-v4.11.0-0-g961abf54 Copyright AgoraInc.
  */
 
