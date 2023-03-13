@@ -335,11 +335,11 @@
 .stream__actions button.active,
 .stream__actions a:hover,
 .stream__actions button:hover {
-  background-color: #845695;
+  background-color: #8aaadf;
 }
 
 #join-btn{
-  background-color: #845695;
+  background-color: #8aaadf;
   font-size: 18px;
   padding: 25px 50px;
   border: none;
