@@ -37,7 +37,7 @@
   padding: 0 1rem;
   position: fixed;
   font-size: 18px;
-  background-color: #323143;
+  background-color: #070c0a;
   width: 218px;
 }
 
@@ -339,7 +339,7 @@
 }
 
 #join-btn{
-  background-color: #8aaadf;
+  background-color: #0db745c4;
   font-size: 18px;
   padding: 25px 50px;
   border: none;

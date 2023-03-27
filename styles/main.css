@@ -124,7 +124,7 @@ a {
 
 #create__room__btn {
   display: block;
-  background-color: #8aaadf;
+  background-color: #0db745c4;
   padding: 8px 24px;
   font-size: 14px;
   font-weight: 500;
@@ -132,7 +132,7 @@ a {
 }
 
 #create__room__btn:hover {
-  background-color: #3a7ae0;
+  background-color: #040cef;
 }
 
 .nav--list {
