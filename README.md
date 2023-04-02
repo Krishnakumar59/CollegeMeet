@@ -4,7 +4,7 @@ This is a simple web application that uses WebRTC technology to implement server
 
 ## How to use
 
-To use this application, simply clone the repository to your local machine and open the `index.html` file in your web browser. You can also [view a live demo here](https://example.com).
+To use this application, simply clone the repository to your local machine and open the `index.html` file in your web browser. You can also [view a live demo here](https://main.d20he9cyumoef5.amplifyapp.com/).
 
 Once the application is loaded in your web browser, you can initiate a video conference by clicking the "Start Call" button. This will generate a unique room ID that you can share with other participants. Other participants can then join the room by entering the room ID and clicking the "Join Call" button.
 
